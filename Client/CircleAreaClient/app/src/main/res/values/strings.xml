@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Circle Area Client</string>
+    <string name="edit_port">Enter port number</string>
+    <string name="edit_host">Enter host domain name</string>
+    <string name="button_connect">Connect to Server</string>
+    <string name="edit_radius">Enter radius of circle</string>
+    <string name="button_area">Area?</string>
+    <string name="text_comm_heading"><b><u>Determine the area of a circle with a given radius.</u></b>\n\nEnter the
+        radius in the box.\nThen press the button.\n</string>
+</resources>
